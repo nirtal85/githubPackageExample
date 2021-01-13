@@ -14,7 +14,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/nirtal85/githubPacageExample</url>
+            <url>https://maven.pkg.github.com/nirtal85/githubPackageExample</url>
         </repository>
     </distributionManagement>
 </project>
