@@ -1,0 +1,48 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.eclipse
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# BlueJ files
+*.ctxt
+
+ # Mac
+.DS_Store
+
+# VS Code
+.vscode/*
+
+# Maven
+log/
+target/
+.factorypath
+*.jar
+*.war
+*.ear
+*.class
+/bin
+*.log
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Test
+test-output/*
+allure-results/*
+allure-report/*
+video/*
+.allure
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

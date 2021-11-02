@@ -1,6 +1,6 @@
-package TestPacakge;
+package infra;
 
-public class Test {
+public class CommonOperations {
     public static void sayHello()
     {
         System.out.println("hello");
